@@ -1,4 +1,4 @@
-# my-c-library
+# my-c-library (for HariboteOS)
 - myfunc.h
 
 ```c
